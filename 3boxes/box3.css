@@ -1,0 +1,20 @@
+.border{
+    border:black 1px solid; 
+
+}
+.box{
+    background-color: lightgreen;
+    width:85%;
+    height:200px;
+}
+.box2{
+    background-color:lightpink ;
+    width:55%;
+    height:150px;
+
+}
+.box3{
+    background-color: lightskyblue;
+    width:25%;
+    height: 100px;
+}

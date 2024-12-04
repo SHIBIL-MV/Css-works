@@ -1,0 +1,19 @@
+.border{
+    border:black 2px solid;
+
+}
+.parent{
+    background-color: green;
+    width: 600px;
+    height: 400px;
+
+    
+}
+.child{
+    background-color: aquamarine;
+    width:300px;
+    height: 200px;
+}
+
+/* absolute ==px */
+/* relative ==% */
